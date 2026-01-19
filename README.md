@@ -4,6 +4,9 @@
 
 An autonomous AI agent that monitors real-world news data, detects emerging technology trends, and stores insights over time using structured memory.
 
+## Why This Project Matters
+This project demonstrates how to build a real-world AI agent using live data, structured memory, and LLM reasoning — without relying on paid APIs. It reflects production-style system design rather than toy examples.
+
 ## 🚀 What This Project Does
 - Ingests real-time news via public APIs
 - Uses LLM reasoning to identify and summarize trends
